@@ -13,4 +13,4 @@ end
 
 end 
 
-lassie.Dog
+lassie.dog
