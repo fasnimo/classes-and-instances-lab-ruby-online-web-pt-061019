@@ -10,6 +10,6 @@ class Dog
 def dog
   "word"
 end 
-send 
+end 
 
 lassie.dog
