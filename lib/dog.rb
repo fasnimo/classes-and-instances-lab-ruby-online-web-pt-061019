@@ -12,4 +12,4 @@ def dog
 end 
 end 
 
-lassie.dog
+lassie.doglassie.dog
